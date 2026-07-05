@@ -1,0 +1,6 @@
+{
+  "name": "Mohona ERP",
+  "description": "An elite, subscription-based Multi-Company SaaS ERP with Dual-Control and Gemini Voice BI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
